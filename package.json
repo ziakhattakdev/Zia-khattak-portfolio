@@ -1,0 +1,9 @@
+{
+  "name": "zia-khattak-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zia Khattak's personal portfolio — static site with a Vercel serverless API route for the Zia AI Assistant.",
+  "engines": {
+    "node": ">=18"
+  }
+}
